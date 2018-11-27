@@ -1,8 +1,8 @@
 {
-  "name": "whoolala-4",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "“Qin0325” <“183281084@qq.com”>",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --open --inline --progress --config build/webpack.dev.conf.js",
